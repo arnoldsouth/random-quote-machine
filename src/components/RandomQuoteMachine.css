@@ -1,5 +1,5 @@
 .MuiCard-root {
-  min-width: 35rem;
+  /* min-width: 35rem; */
   max-width: 35rem;
   /* min-height: 10rem; */
   /* max-height: 10rem; */
@@ -70,4 +70,9 @@
   /* color: #dda78e; */
   border: solid 2px #282c34;
   /* border: solid 0.125rem #dda78e; */
+}
+
+.quoteImage {
+  width: 3rem;
+  padding: 0 1rem 0 0;
 }
